@@ -1,9 +1,9 @@
 {
-  "name": "AwesomeProject",
-  "displayName": "AwesomeProject",
+  "name": "PlayGround",
+  "displayName": "PlayGround",
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "PlayGround",
+    "slug": "PlayGround",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
